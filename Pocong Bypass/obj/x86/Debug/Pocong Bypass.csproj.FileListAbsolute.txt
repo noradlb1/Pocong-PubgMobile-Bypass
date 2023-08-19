@@ -1,0 +1,13 @@
+C:\Users\MONSTERMC\Downloads\New folder (2)\Pocong Bypass\obj\x86\Debug\Pocong Bypass.csproj.CoreCompileInputs.cache
+C:\Users\MONSTERMC\Downloads\New folder (2)\Pocong Bypass\bin\Debug\Pocong Bypass.exe
+C:\Users\MONSTERMC\Downloads\New folder (2)\Pocong Bypass\bin\Debug\Pocong Bypass.pdb
+C:\Users\MONSTERMC\Downloads\New folder (2)\Pocong Bypass\bin\Debug\Guna.UI2.dll
+C:\Users\MONSTERMC\Downloads\New folder (2)\Pocong Bypass\bin\Debug\Newtonsoft.Json.dll
+C:\Users\MONSTERMC\Downloads\New folder (2)\Pocong Bypass\bin\Debug\Newtonsoft.Json.xml
+C:\Users\MONSTERMC\Downloads\New folder (2)\Pocong Bypass\obj\x86\Debug\Pocong Bypass.csproj.CopyComplete
+C:\Users\MONSTERMC\Downloads\New folder (2)\Pocong Bypass\obj\x86\Debug\Pocong Bypass.exe
+C:\Users\MONSTERMC\Downloads\New folder (2)\Pocong Bypass\obj\x86\Debug\Pocong Bypass.pdb
+C:\Users\MONSTERMC\Downloads\New folder (2)\Pocong Bypass\obj\x86\Debug\Pocong Bypass.Properties.Resources.resources
+C:\Users\MONSTERMC\Downloads\New folder (2)\Pocong Bypass\obj\x86\Debug\Pocong Bypass.csproj.GenerateResource.cache
+C:\Users\MONSTERMC\Downloads\New folder (2)\Pocong Bypass\obj\x86\Debug\Superman.LoginForm.resources
+C:\Users\MONSTERMC\Downloads\New folder (2)\Pocong Bypass\obj\x86\Debug\Superman.MainForm.resources
